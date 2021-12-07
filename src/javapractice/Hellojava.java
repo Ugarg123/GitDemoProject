@@ -3,6 +3,7 @@ package javapractice;
 public class Hellojava {
 	public static void main(String[] args) {
 		printName("Udit garg");
+                System.out.println("HELLO WORLD");
 	}
         
         public static void printName(String name){
