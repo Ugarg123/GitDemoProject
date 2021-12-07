@@ -6,7 +6,7 @@ public class Hellojava {
 	}
         
         public static void printName(String name){
-         if(name ==null){
+		if(name ==null){
 		System.out.println("Name cant be null");
 		}
 		else{
