@@ -12,5 +12,6 @@ public class Hellojava {
 		else{
                  System.out.println(name);
 		}
+                System.out.println("HELLO WORLD");
         }
 }
